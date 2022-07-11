@@ -65,6 +65,7 @@ ID 13,161/19
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
+and there are some delay until the gradle updates the state of each component
 
 ##
 This project has many difficulties. but most of all some dependencies are under progrress
