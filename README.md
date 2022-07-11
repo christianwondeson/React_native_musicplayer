@@ -1,5 +1,3 @@
-# React_native_musicplyer
-
 # Music Player
 
 A Music player made my react-native with simple features
