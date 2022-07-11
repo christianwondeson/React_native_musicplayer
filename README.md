@@ -28,3 +28,34 @@ cd MusicPlayer
 
 
 ![phone_music](https://user-images.githubusercontent.com/72356458/178353464-8192a418-2c46-47c6-8db0-60b29a11be5a.jpg)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+## after installation 
+
+```bash
+cd my-project  
+```
+
+```bash
+npx react-native run-android
+```
