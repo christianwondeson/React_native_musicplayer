@@ -60,6 +60,13 @@ cd my-project
 npx react-native run-android
 ```
 
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+##
+This project has many difficulties. but most of all some dependencies are under progrress
+
 ## Acknowledgements
 
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
