@@ -57,6 +57,10 @@ cd my-project
 ```bash
 npx react-native run-android
 ```
+```bash
+NAME CHRISTIAN WONDESON
+ID 13,161/19
+```
 
 ## Lessons Learned
 
