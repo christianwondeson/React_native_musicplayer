@@ -2,7 +2,7 @@
 
 A Music player made my react-native with simple features 
 
-##request
+## request
 please read **README.txt** file and open app-release.zip file it is the final app
 
 ## Installation
