@@ -1,6 +1,6 @@
 # Music Player
 
-A Music player made my react-native with simple features 
+A Music player made my react-native with simple features. This project helped me gain more experience on React Native.
 
 ## request
 please read **README.txt** file and open app-release.zip file it is the final app
